@@ -1,0 +1,60 @@
+Snk_Begin
+  Snk_Int a, b, c #
+  Set a 5 #
+  Set b 10 #
+  Set c 0 #
+
+  If a > b #
+    Set c a #
+  Else #
+    Set c b #
+
+  Snk_Print "La valeur de c est " #
+  Snk_Print c #
+Snk_End
+
+
+Snk_Begin
+  Snk_Int x #
+  Set x 14 #
+
+  If x % 2 == 0 #
+    Snk_Print "x est un nombre pair" #
+  Else #
+    Snk_Print "x est un nombre impair" #
+
+Snk_End
+
+
+
+Snk_Begin
+  Snk_Int n, sum, i #
+  Set n 10 #
+  Set sum 0 #
+  Set i 1 #
+
+  While i <= n #
+    Set sum sum + i #
+    Set i i + 1 #
+
+  Snk_Print "La somme des premiers " #
+  Snk_Print n #
+  Snk_Print " entiers est " #
+  Snk_Print sum #
+Snk_End
+
+
+
+
+Snk_Begin
+  Snk_Int a, b, c #
+  Set a 15 #
+  Set b 20 #
+  Set c 30 #
+
+  If a < b And b < c #
+    Snk_Print "Les valeurs sont dans l'ordre croissant" #
+  Else #
+    Snk_Print "Les valeurs ne sont pas dans l'ordre croissant" #
+
+Snk_End
