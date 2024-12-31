@@ -35,8 +35,7 @@ The application includes a web-based interface built with Django (backend), Reac
 - Python 3.9+
 - Node.js 16+
 - npm or yarn
-- PostgreSQL (or any preferred database for Django)
-
+  
 ---
 
 ## Installation
