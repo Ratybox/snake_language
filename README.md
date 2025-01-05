@@ -1,4 +1,16 @@
 # SNAKE Language Compiler
+## Screen Shots
+
+![Image 1 Title](https://i.ibb.co/dK90kxB/1.png)
+
+![Image 2 Title](https://i.ibb.co/WtVfHL8/2.png)
+
+![Image 3 Title](https://i.ibb.co/ZJ6s5Z0/3.png)
+
+![Image 4 Title](https://i.ibb.co/Zf7WRdk/4.png)
+
+![Image 5 Title](https://i.ibb.co/yWJc1L0/5.png)
+
 
 ## Description
 SNAKE is a custom programming language designed for demonstration purposes, with a simple structure and syntax. This project implements a compiler for SNAKE, capable of performing lexical, syntax, and semantic analysis of `.SNK` files written in the SNAKE language.
